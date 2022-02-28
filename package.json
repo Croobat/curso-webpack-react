@@ -1,0 +1,33 @@
+{
+    "dependencies": {
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
+    },
+    "name": "curso-webpack-react",
+    "description": "learning react",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {
+        "@babel/core": "^7.17.5",
+        "@babel/preset-env": "^7.16.11",
+        "@babel/preset-react": "^7.16.7",
+        "babel-loader": "^8.2.3",
+        "webpack": "^5.69.1",
+        "webpack-cli": "^4.9.2",
+        "webpack-dev-server": "^4.7.4"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/platzi/curso-webpack-react.git"
+    },
+    "keywords": [],
+    "author": "Tony Ramírez <tonyram9906@outlook.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/platzi/curso-webpack-react/issues"
+    },
+    "homepage": "https://github.com/platzi/curso-webpack-react#readme"
+}
